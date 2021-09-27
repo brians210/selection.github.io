@@ -8,7 +8,6 @@
 		"js/promise.min_83a6a5d.js"
 	],
 	"game": [
-		"js/default.thm_47a6ef12.js",
-		"js/main.min_b9137bb7.js"
+		"js/default.thm_47a6ef12.js"
 	]
 }
